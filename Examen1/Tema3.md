@@ -91,7 +91,7 @@ En resumen, la cultura empresarial influye en el comportamiento interno de la em
 ![[diagram8.png]]
 
 _____________________
-###### La responsabilidad social corporativa
+###### La responsabilidad social corporativa(73)
 
 La Responsabilidad Social Corporativa (RSC) se refiere a la responsabilidad de las empresas hacia su entorno. Esto implica que las empresas deben asumir los costes y consecuencias de sus acciones en el entorno. 
 

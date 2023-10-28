@@ -3,7 +3,7 @@
 	}
 
 
-###### El tamaño, la cuota y la estructura del mercado:
+###### El tamaño, la cuota y la estructura del mercado (39)
 
 El **tamaño del mercado** se refiere a cuántas personas o empresas podrían ser clientes de un producto o servicio.
 
@@ -16,7 +16,7 @@ La **cuota de mercado** es la parte de ese mercado que un negocio puede captar.
 La **estructura del mercado** se refiere a cómo se distribuyen los competidores en el mercado, si es altamente competitivo o dominado por unas pocas empresas.
 
 _______________
-###### Tipos de mercado
+###### Tipos de mercado(41)
 
 - **Oligopolio**: En un oligopolio, un pequeño número de empresas controla la mayoría del mercado. Estas empresas suelen competir ferozmente entre sí, pero su influencia en el mercado es significativa. Ejemplos incluyen la industria automotriz y de telecomunicaciones.
     
@@ -28,8 +28,8 @@ _______________
 
 	Un ejemplo de un mercado de competencia monopolística sería el de las tiendas de café o cafeterías. En este mercado, existen muchas tiendas que venden café, pero cada una puede diferenciarse ofreciendo un ambiente único, variedad de productos (como diferentes tipos de café, tés, postres, etc.), precios, música, decoración y servicios adicionales como acceso a Wi-Fi o entretenimiento en vivo.
 
-
-###### Estudio de mercado: los clientes
+______________________________________
+###### Estudio de mercado: los clientes(47)
 
 Realizar un estudio de mercado en cuanto a los clientes es importante porque proporciona información valiosa sobre quiénes son los clientes potenciales, sus necesidades, preferencias y comportamientos de compra.
 

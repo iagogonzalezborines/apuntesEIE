@@ -4,7 +4,7 @@
 	}**
 
 
-###### Trabajador por cuenta propia/ajena (11):
+###### Trabajador por cuenta propia/ajena (11)
 
 Es crucial tener en cuenta estos conocimientos, ya que la vida laboral de una persona puede cambiar significativamente debido a necesidades o cambios personales. Además, estos conocimientos son valiosos desde la perspectiva de un empleado, ya que nos ayudan a comprender el funcionamiento interno de la empresa.
 

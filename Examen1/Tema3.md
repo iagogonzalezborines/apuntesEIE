@@ -28,7 +28,9 @@ El entorno cambiante es ==dinámico==, con ==cambios constantes== y competencia 
 ___________
 
 ###### Análisis de la competencia(63)
-Conocer a la competencia es esencial, ya que su desconocimiento puede poner en riesgo tu negocio. Subestimar a la competencia es un error, ya que si están en el mercado, están haciendo algo bien. ==Conocer a tus competidores te permite adaptar tu estrategia, mantener la ventaja competitiva y responder a los cambios en el mercado de manera efectiva==.
+Conocer a la competencia es esencial, ya que su desconocimiento puede poner en riesgo tu negocio. 
+
+Subestimar a la competencia es un error, ya que si están en el mercado, están haciendo algo bien. ==Conocer a tus competidores te permite adaptar tu estrategia, mantener la ventaja competitiva y responder a los cambios en el mercado de manera efectiva==.
 
 Para hacer un buen análisis hay u montón de preguntas sobre las que tendríamos que tener una respuesta para conocer a la competencia:
 
@@ -52,17 +54,17 @@ Sirve para ====identificar factores internos y externos que afectan a la organiz
 ![[diagram6.png]]
 1. **Análisis DAFO:**
     
-    - _Debilidades:_ Identifica las áreas internas de la empresa que presentan debilidades, como recursos limitados o falta de experiencia.
-    - _Amenazas:_ Identifica factores externos que pueden representar amenazas para la empresa, como la competencia o cambios en el entorno.
-    - _Fortalezas:_ Identifica las áreas internas en las que la empresa destaca, como un equipo talentoso o una marca fuerte.
-    - _Oportunidades:_ Identifica factores externos que pueden ser aprovechados por la empresa, como tendencias del mercado o cambios en la regulación.
+    - **_Debilidades:_** Identifica las áreas internas de la empresa que presentan debilidades, como recursos limitados o falta de experiencia.
+    - **_Amenazas:_** Identifica factores externos que pueden representar amenazas para la empresa, como la competencia o cambios en el entorno.
+    - **_Fortalezas:_** Identifica las áreas internas en las que la empresa destaca, como un equipo talentoso o una marca fuerte.
+    - **_Oportunidades:_** Identifica factores externos que pueden ser aprovechados por la empresa, como tendencias del mercado o cambios en la regulación.
     
 2. **Análisis CAME:**
     
-    - _Corregir:_ Implica tomar medidas para corregir las debilidades identificadas en el análisis DAFO. Esto implica resolver problemas internos y mejorar las áreas deficientes.
-    - _Afrontar:_ Se refiere a cómo la empresa puede enfrentar las amenazas identificadas en el análisis DAFO. Esto implica desarrollar estrategias para mitigar o superar los desafíos externos.
-    - _Mantener:_ Implica mantener y fortalecer las fortalezas actuales de la empresa, asegurándose de que sigan siendo ventajas competitivas.
-    - _Explotar:_ Significa aprovechar las oportunidades identificadas en el análisis DAFO. Esto implica desarrollar estrategias para capitalizar las tendencias del mercado y otros factores externos favorables.
+    - **_Corregir:_** Implica tomar medidas para corregir las debilidades identificadas en el análisis DAFO. Esto implica resolver problemas internos y mejorar las áreas deficientes.
+    - **_Afrontar:_** Se refiere a cómo la empresa puede enfrentar las amenazas identificadas en el análisis DAFO. Esto implica desarrollar estrategias para mitigar o superar los desafíos externos.
+    - **_Mantener:_** Implica mantener y fortalecer las fortalezas actuales de la empresa, asegurándose de que sigan siendo ventajas competitivas.
+    - **_Explotar:_** Significa aprovechar las oportunidades identificadas en el análisis DAFO. Esto implica desarrollar estrategias para capitalizar las tendencias del mercado y otros factores externos favorables.
 
 En resumen el análisis **DAFO** ====proporciona la base== para el desarrollo de un plan estratégico, y el análisis **CAME** es el enfoque específico ==para implementar ese plan==. Juntos, ayudan a la empresa a mejorar su rendimiento y su capacidad para afrontar los desafíos y aprovechar las oportunidades.
 _______________

@@ -29,15 +29,15 @@ Para un trabajador por cuenta propia:
 
 ###### Requisitos y teorías del empresario(13)
 
-Para ser un empresario exitoso, es fundamental tener la disposición para asumir **riesgos**. 
+Para ser un empresario exitoso, es fundamental tener la disposición para ==asumir **riesgos**==. 
 
-Además, se necesita **capital inicial** para iniciar el negocio, al menos el 50% para buscar financiación externa, ya que los bancos suelen requerir que los empresarios asuman riesgos financieros. Además, tener acceso a la **tecnología** y equipos adecuados es esencial para emprender en un sector específico.
+Además, se necesita ==**capital inicial**== para iniciar el negocio, al menos el 50% para buscar financiación externa, ya que los bancos suelen requerir que los empresarios asuman riesgos financieros. Además, tener ==acceso a la **tecnología**== y equipos adecuados es esencial para emprender en un sector específico.
 
-Para tener éxito en el mundo empresarial, es crucial **conocer el negocio en profundidad**, preferiblemente habiendo trabajado en el mismo sector como empleado. También se requieren conocimientos de administración y gestión, ya que la dirección de una empresa implica tomar decisiones continuas en estas áreas.
+Para tener éxito en el mundo empresarial, es crucial ==**conocer el negocio en profundidad**==, preferiblemente habiendo trabajado en el mismo sector como empleado. También se requieren conocimientos de administración y gestión, ya que la dirección de una empresa implica tomar decisiones continuas en estas áreas.
 
 Además, las habilidades personales y sociales, conocidas como "soft skills", son esenciales.
 
- Las "soft skills" son habilidades personales y sociales que van más allá de las habilidades técnicas y académicas. Son cualidades personales que influyen en la forma en que interactuamos con los demás y cómo enfrentamos desafíos en la vida laboral y personal. 
+ Las "soft skills" son ==habilidades personales y sociales== que van más allá de las habilidades técnicas y académicas. Son cualidades personales que influyen en la forma en que interactuamos con los demás y cómo enfrentamos desafíos en la vida laboral y personal. 
 
 Algunas  "soft skills" :
 
@@ -50,7 +50,7 @@ Algunas  "soft skills" :
 
 ###### Zona de confort(14)
 
-Cuando te encuentras en tu zona de confort, estás en un lugar psicológico seguro. Es donde te sientes cómodo porque todo es familiar y bajo control. Te sientes protegido de cualquier peligro, pero a la vez, no experimentas un crecimiento personal.
+Cuando te encuentras en tu zona de confort, estás en un lugar psicológico seguro. Es donde te sientes cómodo porque todo ==es familiar y bajo control==. Te sientes protegido de cualquier peligro, pero a la vez, no experimentas un crecimiento personal.
 
 
 Varios modelos gráficos:
@@ -66,20 +66,20 @@ _____________________
 
 ###### Teorías del  empresario(17)
 
-Explican lo que significa ser empresario
+Explican lo que ==significa ser empresario==
 
-- **Teoría de la oportunidad:** Según esta teoría, el empresario es una persona que descubre nuevas oportunidades en el mercado (lo que se llama 'nicho de mercado').
+- **Teoría de la oportunidad:** Según esta teoría, el empresario es una persona que ==descubre nuevas oportunidades== en el mercado (lo que se llama 'nicho de mercado').
 
-- **Teorías socioculturales:**  Estas teorías se centran en el estudio de las características personales del empresario, como su personalidad, sus valores y su cultura.
+- **Teorías socioculturales:**  Estas teorías se centran en el estudio de las características personales del empresario, como su ==personalidad, sus valores y su cultura==.
 
 -------------
 ###### Tipos de emprendedores(21)
 
 Hay dos tipos de emprendedores:
 
-1. Emprendedor empresario: Este es el tipo que comienza su propio negocio y se arriesga económicamente. Empieza la empresa desde cero y se enfrenta a los desafíos de la innovación.
+1. Emprendedor empresario: Este es el tipo que comienza su propio negocio y se arriesga económicamente. Empieza la empresa ==desde cero== y se enfrenta a los desafíos de la innovación.
     
-2. Emprendedor corporativo: Esto se refiere a alguien que trabaja en una empresa, pero tiene la libertad para proponer y desarrollar nuevos proyectos como si fueran suyos. También se le llama "intraemprendedor" cuando un empleado tiene esa autonomía.
+2. Emprendedor corporativo: Esto se refiere a alguien que ==trabaja en una empresa==, pero tiene la ==libertad para proponer y desarrollar nuevos proyectos== como si fueran suyos. También se le llama "intraemprendedor" cuando un empleado tiene esa autonomía.
 
 
 _________
@@ -117,4 +117,4 @@ __________________________
 
 ###### Propuesta de valor(27)
 
-La propuesta de valor es la razón por la cual los clientes eligen un producto o servicio en lugar de los competidores. Es esencial porque define lo que hace que un negocio sea único y valioso para sus clientes, lo que puede aumentar la lealtad del cliente y el éxito del emprendimiento al satisfacer las necesidades y deseos de manera convincente.
+La propuesta de valor es la ==razón por la cual los clientes eligen un producto o servicio== en lugar de los competidores. Es esencial porque define lo que hace que un negocio sea ==único y valioso== para sus clientes, lo que puede aumentar la lealtad del cliente y el éxito del emprendimiento al satisfacer las necesidades y deseos de manera convincente.

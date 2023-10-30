@@ -1,22 +1,26 @@
 
 **Páginas pdf {
-	57, 63, 65, 69, 71, 73
+	57,59, 63, 65, 69, 71, 73
 	}
 
 
 ###### Entrono general de las empresas(57)
-El entorno general de las empresas, también llamado macroentorno, se refiere a todos los factores externos que pueden influir en el funcionamiento de una empresa, pero que están más allá de su control directo. Esto incluye aspectos políticos, económicos, sociales y tecnológicos, así como factores ambientales y legales.
+El entorno general de las empresas, también llamado macroentorno, se refiere a ==todos los factores externos== que pueden influir en el funcionamiento de una empresa, pero que están más allá de su control directo. Esto incluye aspectos políticos, económicos, sociales y tecnológicos, así como factores ambientales y legales.
 
-Factores
+Factores **PEST**
 **P**:  Políticos legales, legislación y gobierno
 **E**:  Económicos, situación económica general, intereses y mercado
 **S**:  Socioculturales, estilos de vida, cambios sociales.
 **T**:  Tecnológicos, nivel del desarrollo del país e inversión en I+D+I.
  
- Ayuda a identificar y comprender las influencias externas que pueden afectar a una empresa, lo que permite adaptar estrategias y tomar decisiones informadas.
+ Ayuda a ==identificar y comprender las influencias externas que pueden afectar a una empresa==, lo que permite adaptar estrategias y tomar decisiones informadas.
 
 ###### Tipos de entorno: sencillo/cambiante(57)
-El entorno se divide en dos tipos: sencillo y cambiante. El entorno sencillo tiene pocos cambios, lo que facilita la reacción, mientras que el entorno cambiante es dinámico, con cambios constantes y competencia innovadora, requiriendo respuestas rápidas y adaptables.
+El entorno se divide en dos tipos: sencillo y cambiante. 
+
+El entorno sencillo tiene ==pocos cambios==, lo que facilita la reacción.
+
+El entorno cambiante es ==dinámico==, con cambios constantes y competencia innovadora, requiriendo respuestas rápidas y adaptables.
 
 ![[diagram4.png]]
 
@@ -24,7 +28,7 @@ El entorno se divide en dos tipos: sencillo y cambiante. El entorno sencillo tie
 ___________
 
 ###### Análisis de la competencia(63)
-Conocer a la competencia es esencial, ya que su desconocimiento puede poner en riesgo tu negocio. Subestimar a la competencia es un error, ya que si están en el mercado, están haciendo algo bien. Conocer a tus competidores te permite adaptar tu estrategia, mantener la ventaja competitiva y responder a los cambios en el mercado de manera efectiva.
+Conocer a la competencia es esencial, ya que su desconocimiento puede poner en riesgo tu negocio. Subestimar a la competencia es un error, ya que si están en el mercado, están haciendo algo bien. ==Conocer a tus competidores te permite adaptar tu estrategia, mantener la ventaja competitiva y responder a los cambios en el mercado de manera efectiva==.
 
 Para hacer un buen análisis hay u montón de preguntas sobre las que tendríamos que tener una respuesta para conocer a la competencia:
 
@@ -40,16 +44,31 @@ _____________
 
 ##### Análisis D.A.F.O del entorno y de la empresa(65)
 
-El análisis DAFO es una herramienta que evalúa las Debilidades, Amenazas, Fortalezas y Oportunidades de una empresa.
+El análisis DAFO es una ==herramienta== que evalúa las *Debilidades, Amenazas, Fortalezas y Oportunidades* de una empresa.
 
-Sirve para identificar factores internos y externos que afectan a la organización. Es importante porque ayuda a tomar decisiones estratégicas, aprovechar oportunidades, mitigar amenazas, capitalizar fortalezas y abordar debilidades, lo que contribuye al éxito y la supervivencia de la empresa en un entorno competitivo.
+Sirve para ====identificar factores internos y externos que afectan a la organización==. Es importante porque ayuda a tomar decisiones estratégicas, aprovechar oportunidades, mitigar amenazas, capitalizar fortalezas y abordar debilidades, lo que contribuye al éxito y la supervivencia de la empresa en un entorno competitivo.
 
 
 ![[diagram6.png]]
+1. **Análisis DAFO:**
+    
+    - _Debilidades:_ Identifica las áreas internas de la empresa que presentan debilidades, como recursos limitados o falta de experiencia.
+    - _Amenazas:_ Identifica factores externos que pueden representar amenazas para la empresa, como la competencia o cambios en el entorno.
+    - _Fortalezas:_ Identifica las áreas internas en las que la empresa destaca, como un equipo talentoso o una marca fuerte.
+    - _Oportunidades:_ Identifica factores externos que pueden ser aprovechados por la empresa, como tendencias del mercado o cambios en la regulación.
+    
+2. **Análisis CAME:**
+    
+    - _Corregir:_ Implica tomar medidas para corregir las debilidades identificadas en el análisis DAFO. Esto implica resolver problemas internos y mejorar las áreas deficientes.
+    - _Afrontar:_ Se refiere a cómo la empresa puede enfrentar las amenazas identificadas en el análisis DAFO. Esto implica desarrollar estrategias para mitigar o superar los desafíos externos.
+    - _Mantener:_ Implica mantener y fortalecer las fortalezas actuales de la empresa, asegurándose de que sigan siendo ventajas competitivas.
+    - _Explotar:_ Significa aprovechar las oportunidades identificadas en el análisis DAFO. Esto implica desarrollar estrategias para capitalizar las tendencias del mercado y otros factores externos favorables.
+
+En resumen el análisis **DAFO** ====proporciona la base== para el desarrollo de un plan estratégico, y el análisis **CAME** es el enfoque específico ==para implementar ese plan==. Juntos, ayudan a la empresa a mejorar su rendimiento y su capacidad para afrontar los desafíos y aprovechar las oportunidades.
 _______________
 ###### Localización del proyecto empresarial(69)
 
-Es importante donde localizamos nuestra empresa debido a diferentes factores como:
+Es ==importante donde localizamos nuestra empresa== debido a diferentes factores como:
 
 1. **Sector industrial:** El sector en el que opera una empresa puede afectar su rentabilidad y su dinámica competitiva. Diferentes sectores tienen características y desafíos específicos.
 
@@ -65,7 +84,7 @@ Es importante donde localizamos nuestra empresa debido a diferentes factores com
 
 7. **Recursos humanos:** El talento y la gestión de recursos humanos son fundamentales para la productividad y la cultura de la empresa.
 
-En resumen, todos estos factores son críticos en la planificación y operación de una empresa, y su gestión adecuada puede marcar la diferencia en su éxito a largo plazo.
+En resumen, todos estos ==factores son críticos en la planificación y operación de una empresa==, y su gestión adecuada puede marcar la diferencia en su éxito a largo plazo.
 
 La externalización o deslocalización implica ubicar la producción en otro país para reducir costos salariales, puede tener riesgos como:
 - La baja calidad 
@@ -78,13 +97,13 @@ Por lo tanto, es importante considerar estos factores antes de tomar una decisi�
 ________________________________________
 ###### La cultura empresarial e imagen corporativa(71)
 
-La **cultura empresarial** se refiere a las creencias y valores compartidos por los miembros de una empresa, transmitidos a través de normas escritas y no escritas, como mitos, anécdotas, ritos y ceremonias, así como la forma en que se distribuyen los espacios y las vestimentas de los trabajadores.
+La **cultura empresarial** se refiere a las ==creencias y valores compartidos por los miembros de una empresa==, transmitidos a través de normas escritas y no escritas, como mitos, anécdotas, ritos y ceremonias, así como la forma en que se distribuyen los espacios y las vestimentas de los trabajadores.
 
-La imagen corporativa, por otro lado, es el conjunto de impresiones que la empresa genera en el público y se refiere a cómo es percibida por clientes y la sociedad en general.
+La **imagen corporativa**, por otro lado, es el ==conjunto de impresiones== que la empresa genera en el público y se refiere a cómo es percibida por clientes y la sociedad en general.
 
-La imagen corporativa puede ser transmitida de manera intencionada a través de campañas de marketing y publicidad, así como de manera espontánea a través de la actuación cotidiana de la empresa. Su finalidad es transmitir la cultura de la empresa al entorno, mejorar la opinión pública y generar prestigio.
+La  **imagen corporativa** puede ser transmitida de manera intencionada a través de campañas de marketing y publicidad, así como de manera espontánea a través de la actuación cotidiana de la empresa. Su finalidad es transmitir la cultura de la empresa al entorno, mejorar la opinión pública y generar prestigio.
 
-En resumen, la cultura empresarial influye en el comportamiento interno de la empresa, mientras que la imagen corporativa se enfoca en cómo la empresa es vista por el público externo. Ambos son importantes para la reputación y el éxito de la empresa.
+En resumen, la cultura empresarial influye en el comportamiento ==interno== de la empresa, mientras que la imagen corporativa se enfoca en cómo la empresa ==es vista por el público externo==. Ambos son importantes para la reputación y el éxito de la empresa.
 
 ![[diagram7.png]]
 
@@ -93,14 +112,28 @@ En resumen, la cultura empresarial influye en el comportamiento interno de la em
 _____________________
 ###### La responsabilidad social corporativa(73)
 
-La Responsabilidad Social Corporativa (RSC) se refiere a la responsabilidad de las empresas hacia su entorno. Esto implica que las empresas deben asumir los costes y consecuencias de sus acciones en el entorno. 
+La Responsabilidad Social Corporativa (RSC) se refiere a la ==responsabilidad de las empresas hacia su entorno==. Esto implica que las empresas deben asumir los costes y consecuencias de sus acciones en el entorno. 
 
-La RSC busca que las empresas sean éticas y transparentes, estableciendo objetivos para promover el desarrollo sostenible de la sociedad, preservar los recursos ambientales y culturales, respetar la diversidad y reducir las desigualdades sociales.
+La RSC busca que las empresas sean ==éticas y transparentes==, estableciendo objetivos para ==promover el desarrollo sostenible== de la sociedad, preservar los recursos ambientales y culturales, respetar la diversidad y reducir las desigualdades sociales.
 
 La RSC ha evolucionado a lo largo del tiempo, pasando por varias etapas:
 1. **Etapa de cumplimiento de la ley**: Las empresas cumplen con las regulaciones legales.
 2. **Etapa de reacción ante las demandas de la sociedad**: Las empresas ven la RSC como una forma de ganar prestigio y patrocinan actividades que son bien vistas por la sociedad.
 3. **Etapa de concienciación social**: Las empresas incorporan la RSC en su cultura corporativa, abarcando todas las facetas de la empresa.
 
-En resumen, la RSC implica que las empresas deben considerar su impacto en la sociedad y el entorno, más allá de simplemente cumplir con las leyes, y promover prácticas empresariales éticas y sostenibles.
+En resumen, la RSC implica que las empresas deben ==considerar su impacto== en la sociedad y el entorno, más allá de simplemente cumplir con las leyes, y promover prácticas empresariales éticas y sostenibles.
 ![[diagram9.png]]
+
+
+
+___________________________
+
+###### Método S.C.A.M.P.E.R
+
+![[diagram10.png]]
+
+Es una **técnica de lluvia de ideas en equipo que se utiliza para ==desarrollar o mejorar ==productos o servicios**.
+
+Este enfoque fomenta la creatividad y la exploración de múltiples enfoques para resolver un problema o generar nuevas ideas. Puede ser aplicado en diversas áreas, desde el desarrollo de productos y servicios hasta la mejora de procesos empresariales y la resolución de problemas cotidianos.
+
+____________________________

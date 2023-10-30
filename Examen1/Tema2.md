@@ -8,7 +8,7 @@
 El **tamaño del mercado** se refiere a cuántas personas o empresas ==podrían ser clientes== de un producto o servicio.
 
 
-La **cuota de mercado** es la ==parte== de ese mercado que un negocio puede ==captar==.  
+La **cuota de mercado** es la ==parte== de ese ==mercado== que un negocio puede ==captar==.  
 
 	cuota = ventasEmpresa / ventasSector
 

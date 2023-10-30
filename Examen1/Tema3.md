@@ -20,7 +20,7 @@ El entorno se divide en dos tipos: sencillo y cambiante.
 
 El entorno sencillo tiene ==pocos cambios==, lo que facilita la reacción.
 
-El entorno cambiante es ==dinámico==, con cambios constantes y competencia innovadora, requiriendo respuestas rápidas y adaptables.
+El entorno cambiante es ==dinámico==, con ==cambios constantes== y competencia innovadora, requiriendo respuestas rápidas y adaptables.
 
 ![[diagram4.png]]
 

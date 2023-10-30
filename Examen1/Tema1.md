@@ -35,9 +35,9 @@ Además, se necesita ==**capital inicial**== para iniciar el negocio, al menos e
 
 Para tener éxito en el mundo empresarial, es crucial ==**conocer el negocio en profundidad**==, preferiblemente habiendo trabajado en el mismo sector como empleado. También se requieren conocimientos de administración y gestión, ya que la dirección de una empresa implica tomar decisiones continuas en estas áreas.
 
-Además, las habilidades personales y sociales, conocidas como "soft skills", son esenciales.
+Además, las habilidades personales y sociales, conocidas como **"soft skills"**, son esenciales.
 
- Las "soft skills" son ==habilidades personales y sociales== que van más allá de las habilidades técnicas y académicas. Son cualidades personales que influyen en la forma en que interactuamos con los demás y cómo enfrentamos desafíos en la vida laboral y personal. 
+ Las **"soft skills"** son ==habilidades personales y sociales== que van más allá de las habilidades técnicas y académicas. Son cualidades personales que influyen en la forma en que interactuamos con los demás y cómo enfrentamos desafíos en la vida laboral y personal. 
 
 Algunas  "soft skills" :
 

@@ -5,6 +5,7 @@
 - Exclusión de dos formas societarias específicas.
 - No se requerirán porcentajes fijos en las preguntas.
 
+____________
 
 # Características de Personas Físicas
 
@@ -14,6 +15,7 @@ Las personas físicas tienen las siguientes características:
 
 - Responsabilidad ilimitada por las deudas de la empresa.
 - El valor máximo de la vivienda no puede exceder los 300,000 euros y debe registrarse en el Registro Mercantil.
+_________
 
 # Sociedades:
 ## Sociedad Limitada (SL)
@@ -45,6 +47,7 @@ Las personas físicas tienen las siguientes características:
 - Las de bienes, como los comuneros en comunidades de vecinos, no buscan lucro.
 - Las civiles persiguen el lucro y están reguladas para evitar el Código de Comercio.
 
+___________________________
 
 # Constitución de Personas Jurídicas:
 

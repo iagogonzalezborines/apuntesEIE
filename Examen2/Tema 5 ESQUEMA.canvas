@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"5cdc4cfee3e2e56b","x":-780,"y":-60,"width":134,"height":60,"color":"6","type":"text","text":"# Precios"},
+		{"id":"b1985350d5616cab","x":-560,"y":-60,"width":155,"height":60,"type":"text","text":"## Estrategias"},
+		{"id":"1deaa3f105334b93","x":-340,"y":-90,"width":480,"height":120,"type":"text","text":"**Precio en dos partes**\n* Precio cautivo: Precio fijo (barato) + precio variable (caro)\n\n**Precio paquete**\n* Pack\n\n**Precio Gancho**:\n- Conseguir que el cliente entre en establecimiento\n\n**Precio de penetración**:\n- Empresa entra nueva en mercado\n\n**Discriminación de precios**\n- Colectivos distintos\n\n**Precios descuento**:\n- Rebajas\n- Por comprar mucha cantidad\n- Por pronto pago\n\n**Precios de prestigio:**\n* Precio caro = alta calidad\n\n**Precios descremados o desnatados:**\n* Sacar un producto a precio alto y luego disminuirlo\n\n**Precios psicológicos:**\n* Terminado en 95 o 99"},
+		{"id":"66b086a5d224820d","x":-482,"y":240,"width":285,"height":60,"color":"4","type":"text","text":"## Promociones y Publicidad"},
+		{"id":"03fd6732882016ff","x":-820,"y":405,"width":360,"height":220,"type":"text","text":" Uso de música en el local como promoción.\n    - Ambientación del comercio: iluminación, etc...\n    - Artículos publicitarios: bolsas, bolígrafos...\n    - Relaciones públicas."},
+		{"id":"d6fcb5afaa97176b","x":-300,"y":405,"width":333,"height":155,"type":"text","text":"Medios de comunicación de masas: televisión, radio, prensa…\n    - Páginas de Internet, (e-mail)\n    - Método AIDA:"},
+		{"id":"1e2c375b4a66e72e","x":140,"y":405,"width":113,"height":60,"type":"text","text":"### AIDA"},
+		{"id":"6eab97db9a711f5c","x":140,"y":530,"width":650,"height":60,"type":"text","text":" A: Atención (Attention): Captar la atención del consumidor con un mensaje llamativo o impactante."},
+		{"id":"ddd8dfae67ed28fc","x":140,"y":625,"width":650,"height":60,"type":"text","text":"I: Interés (Interest): Generar interés mostrando beneficios o soluciones que satisfagan una necesidad o deseo del consumidor."},
+		{"id":"1f58920626ea00d2","x":140,"y":720,"width":650,"height":60,"type":"text","text":"D: Deseo (Desire): Fomentar el deseo de adquirir el producto o servicio, resaltando sus ventajas únicas y creando un sentimiento de necesidad."},
+		{"id":"a74234b0ca5f8d16","x":140,"y":820,"width":650,"height":61,"type":"text","text":"A: Acción (Action): Motivar al consumidor a tomar una acción específica, como comprar, suscribirse, solicitar información, etc."}
+	],
+	"edges":[
+		{"id":"9fd438bae48aac13","fromNode":"5cdc4cfee3e2e56b","fromSide":"right","toNode":"b1985350d5616cab","toSide":"left"},
+		{"id":"755898f433e05e1f","fromNode":"b1985350d5616cab","fromSide":"right","toNode":"1deaa3f105334b93","toSide":"left"},
+		{"id":"c963a661f58a780c","fromNode":"66b086a5d224820d","fromSide":"bottom","toNode":"03fd6732882016ff","toSide":"top"},
+		{"id":"7746ab8dd2000f7b","fromNode":"66b086a5d224820d","fromSide":"bottom","toNode":"d6fcb5afaa97176b","toSide":"top"},
+		{"id":"5a96e40edf5faca7","fromNode":"d6fcb5afaa97176b","fromSide":"right","toNode":"1e2c375b4a66e72e","toSide":"left"},
+		{"id":"5dcd7ed97f1cb9c3","fromNode":"1e2c375b4a66e72e","fromSide":"bottom","toNode":"6eab97db9a711f5c","toSide":"top"},
+		{"id":"31fdfbfea37eb771","fromNode":"6eab97db9a711f5c","fromSide":"bottom","toNode":"ddd8dfae67ed28fc","toSide":"top"},
+		{"id":"660f4df718db7950","fromNode":"ddd8dfae67ed28fc","fromSide":"bottom","toNode":"1f58920626ea00d2","toSide":"top"},
+		{"id":"77306d381a06a3d3","fromNode":"1f58920626ea00d2","fromSide":"bottom","toNode":"a74234b0ca5f8d16","toSide":"top"}
+	]
+}

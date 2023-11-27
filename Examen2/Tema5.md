@@ -2,33 +2,33 @@
 
 ## Estrategias:
 
-Precio en dos partes
+**Precio en dos partes**
 * Precio cautivo: Precio fijo (barato) + precio variable (caro)
 
-Precio paquete
+**Precio paquete**
 * Pack
 
-Precio Gancho:
+**Precio Gancho**:
 - Conseguir que el cliente entre en establecimiento
 
-Precio de penetración:
+**Precio de penetración**:
 - Empresa entra nueva en mercado
 
-Discriminación de precios
+**Discriminación de precios**
 - Colectivos distintos
 
-Precios descuento:
+**Precios descuento:
 - Rebajas
 - Por comprar mucha cantidad
 - Por pronto pago
 
-Precios de prestigio:
+**Precios de prestigio:
 * Precio caro = alta calidad
 
-Precios descremados o desnatados:
+**Precios descremados o desnatados:
 * Sacar un producto a precio alto y luego disminuirlo
 
-Precios psicológicos:
+**Precios psicológicos:
 * Terminado en 95 o 99
 _________
 
@@ -44,10 +44,10 @@ _________
 - *Concepto de Publicidad:*
     - Medios de comunicación de masas
     - Televisión, radio, prensa…
-    - Páginas de Internet, mailing (e-mail)
+    - Páginas de Internet, (e-mail)
 
 ## Estrategias de Distribución
-- _Cual usaría_:*
+- _Cual usaría_:
     - Canal directo, sin intermediario
     - Canal indirecto con intermediarios.
 ____________

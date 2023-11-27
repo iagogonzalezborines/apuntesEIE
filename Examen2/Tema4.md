@@ -59,22 +59,22 @@ El nivel formal hace referencia al ==empaque, diseño, marca y otros elementos==
 ## Ciclo de vida del producto:
 
 
-**Introducción**:  Gasto en publicidad, dar a conocer el producto.
+**Introducción**:  Gasto en publicidad, dar a ==conocer== el producto.
 
-**Crecimiento**:  Publicidad persuasiva distinguir el producto de imitadores.
+**Crecimiento**:  Publicidad persuasiva ==distinguir== el producto de imitadores.
 
-**Madurez**: Alta competencia intentar fidelizar clientes.
+**Madurez**: Alta competencia intentar ==fidelizar== clientes.
 
-**Declive**: Decidir si abandonarlo o mantenerlo o relanzarlo con innovación
+**Declive**: ==Decidir== si abandonarlo o mantenerlo o relanzarlo con innovación
 
-## Estrategias:
+## Estrategias producto:
 
 **De diferenciación:**
-- Diferenciarlo de la competencia
+- ==Diferenciarlo== de la competencia
 - Cambiar: envase o embalaje, diseño con formas (ejemplo pendrives personalizados)
 
 **De marca:**
-- Genera confianza y disminuye la incertidumbre (fidelización)
+- Genera ==confianza== y ==disminuye la incertidumbre== (fidelización)
 - Tipos de marca
 		- Marca única (misma para todos los productos)
 		- Marca múltiple (una para cada producto)
@@ -82,7 +82,7 @@ El nivel formal hace referencia al ==empaque, diseño, marca y otros elementos==
 		- Marcas blancas (cadenas de distribución: hacendado, etc)
 
 **De alargamiento de la vida del producto:**
-- Modificar el producto ya existente
-- Introducir innovaciones (calidad, diseño, servicios prestados)
+- ==Modificar== el producto ya existente
+- Introducir ==innovaciones== (calidad, diseño, servicios prestados)
 - Nuevas formas de consumo
 - Venderlo en otro segmento

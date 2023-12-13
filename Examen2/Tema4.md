@@ -1,6 +1,6 @@
 # Marketing:
 
-Es el conjunto de ==actividades== que busca ==satisfacer== a los ==clientes== y ==alcanzar objetivos empresariales== a través de ==estrategias== de producto, precio, distribución, promoción y relaciones con los clientes.
+Es el conjunto de ==actividades== que busca ==satisfacer== a los ==clientes== y ==alcanzar objetivos empresariales== a través de estudio de mercado,  ==estrategias== de producto, precio, distribución, promoción y relaciones con los clientes.
 
 ### Marketing estratégico:
 Después del estudio de mercado, se establecen ==metas y estrategias== de marketing. La estrategia clave es el ==__posicionamiento__== del producto frente a la competencia. Se plantea cómo queremos que los ==consumidores== nos ==perciban== de manera ==diferente== y qué ==aspectos únicos== queremos ==resaltar== en comparación con otros productos. Esencialmente, se trata de ==cómo queremos ser vistos== en la mente de los ==consumidores== en relación con la competencia.
